@@ -1,0 +1,9 @@
+PLAY-ID | Arquivos para corrigir imagens quebradas no Gmail
+
+1. Publique esta pasta como site estático na Vercel.
+2. Abra o endereço de produção e confira as quatro imagens e a animação.
+3. Abra email-template-para-atualizar.html e substitua https://SEU-DOMINIO-VERCEL.app/ pelo URL de produção da Vercel, terminando em /.
+4. Abra o HTML atualizado no navegador, selecione o conteúdo visual e cole no Gmail.
+5. Teste enviando para uma conta sua antes de salvar como modelo definitivo ou disparar para clientes.
+
+Observação: NÃO usar endereços locais nem imagens em base64 para o envio em massa.
